@@ -1,8 +1,8 @@
 # @golden-tiger/regexp-gene
 
-Generate random string from regular expression.
+Generate random string from a JS regular expression.
 
-> [NPM Detail](https://www.npmjs.com/package/@golden-tiger/regexp-gene), [Github Repository](https://github.com/CHENGCHANGHU/regexp-gene)
+> [Github Repository](https://github.com/CHENGCHANGHU/regexp-gene)
 
 ## Candidate Character Pool (ASCII)
 
