@@ -1,6 +1,6 @@
 {
   "name": "@golden-tiger/regexp-gene",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "@golden-tiger/regexp-gene",
   "main": "./lib/cjs-module.js",
   "module": "./lib/es-module.js",

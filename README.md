@@ -1,6 +1,6 @@
 # @golden-tiger/regexp-gene
 
-Generate random string from a JS regular expression.
+Generate random string from a JS regular expression gene.
 
 > [Github Repository](https://github.com/CHENGCHANGHU/regexp-gene)
 
@@ -15,7 +15,7 @@ Generate random string from a JS regular expression.
 
 ## How To Use `gene(regExp, option)`
 
-- `regExp`: gene of random string
+- `regExp`: the regular expression gene of random string
 
 - `option.max`: max length of random string, the default max length equal 10
 

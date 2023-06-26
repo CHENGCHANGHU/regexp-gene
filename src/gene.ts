@@ -17,10 +17,10 @@ export function range(min: number, max: number): number[] {
 }
 
 /**
- * Generate string from the RegExp gene
- * @param {*} regExp RegExp
- * @param {*} option.max default max length of result string
- * @returns string generated from RegExp gene
+ * Generate random string from a JS regular expression gene.
+ * @param {*} regExp The regular expression gene of random string
+ * @param {*} option.max Max length of random string, the default max length equal 10
+ * @returns String generated from regular expression gene
  */
 export function gene(regExp: RegExp, option = { max: 20 }): string {
   const { max } = option;
